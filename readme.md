@@ -4,4 +4,4 @@ Canvas experimentation with strokes. Made together with my class at Medieinstitu
 
 ## DEMO
 
-[DEMO]()
+[DEMO](https://willen17.github.io/circle-patterns/)
